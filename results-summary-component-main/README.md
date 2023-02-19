@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/markuskulmer/frontend-mentor/tree/main/results-summary-component-main)
-- Live Site URL: [Add live site URL here](https://63f1d2519a6b0f00086c44f7--bejewelled-stroopwafel-169c8a.netlify.app/results-summary-component-main)
+- [Solution URL](https://github.com/markuskulmer/frontend-mentor/tree/main/results-summary-component-main)
+- [Live Site URL](https://63f1d2519a6b0f00086c44f7--bejewelled-stroopwafel-169c8a.netlify.app/results-summary-component-main)
 
 ## My process
 
