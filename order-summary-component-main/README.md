@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/markuskulmer/frontend-mentor/tree/main/order-summary-component-main)
-- [Live Site URL](https://63f1d2519a6b0f00086c44f7--bejewelled-stroopwafel-169c8a.netlify.app/order-summary-component-main)
+- [Live Site URL](https://bejewelled-stroopwafel-169c8a.netlify.app/order-summary-component-main)
 
 ## My process
 
