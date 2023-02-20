@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "Red Hat Display";
+  src: url("../fonts/RedHatDisplay-VariableFont_wght.ttf");
+}
+
+body {
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 1.5rem;
+}
+
+.card {
+  h1 {
+    font-size: 2.2rem;
+    line-height: 2.9rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+  }
+
+  h1,
+  h2,
+  button {
+    font-weight: 900;
+  }
+
+  p {
+    font-weight: 500;
+  }
+
+  &__pricing {
+    font-size: 1.4rem;
+
+    a {
+      font-size: 1.3rem;
+      font-weight: 700;
+    }
+  }
+
+  &__content {
+    & > p {
+      text-align: center;
+      line-height: 167%;
+    }
+  }
+
+  &__btn {
+    font-size: 1.5rem;
+  }
+}
